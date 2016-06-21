@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+<LinearLayout 
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    >
+    <EditText 
+                android:id="@+id/et_test_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="輸入單字"
+        />
+    <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="read單字"
+        android:id="@+id/btn_test_1"/>
+     <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="write單字"
+        android:id="@+id/btn_test_2"/>
+    
+</LinearLayout>
+<LinearLayout 
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    >
+    <EditText 
+                android:id="@+id/et_test_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="輸入 雙字"
+        />
+    <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="read雙字"
+       android:id="@+id/btn_test_3"/>
+     <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="write雙字"
+       android:id="@+id/btn_test_4"/>
+    
+</LinearLayout>
+<LinearLayout 
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    >
+    <EditText 
+                android:id="@+id/et_test_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="輸入 雙字"
+        />
+    <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="写M10"
+       android:id="@+id/btn_test_5"/>
+     <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="写M101"
+       android:id="@+id/btn_test_6"/>
+     <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="读m11"
+       android:id="@+id/btn_test_7"/>
+        <TextView 
+                android:id="@+id/m_test_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="获得数据"
+        />
+</LinearLayout>
+<TextView 
+    android:layout_marginTop="50dp"
+    android:id="@+id/tv_test_show"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:text="顯示數據"/>
+
+</LinearLayout>

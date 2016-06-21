@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_activity.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\welcome_activity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupforsimulation_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\popupforsimulation_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\systemsetting_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\systemsetting_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\flow_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\flow_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\alarm_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupforsimulaion_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\popupforsimulaion_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animation_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\animation_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_monitoring.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\fragment_monitoring.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timeseris_date_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\timeseris_date_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmrecord_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\alarmrecord_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amachinestatus_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\amachinestatus_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_login.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\popupwindow_login.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\run_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\run_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\week_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\week_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_special_controls.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\fragment_special_controls.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\parameter_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\parameter_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_recycleview_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\main_recycleview_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmrecord_recycleview_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\alarmrecord_recycleview_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_login_succeed.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\popupwindow_login_succeed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_recycle_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\history_recycle_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\time_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simulation_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\simulation_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\introduce_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\introduce_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\avalve_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\avalve_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animation_single_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\animation_single_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\equipment.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\equipment.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\main_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupfortime_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\popupfortime_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\analog_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\analog_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second_main_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\second_main_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pressure_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\pressure_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pp_input.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\pp_input.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_children.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\layout_children.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupfortimeseries_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\popupfortimeseries_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second_fragment_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\second_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\history_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\history_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\monitor_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\monitor_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ed_dialog.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\ed_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_layout2.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\test_layout2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_parent.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\layout_parent.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_oxygen_state.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\fragment_oxygen_state.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\time_picker.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_update.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\popupwindow_update.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\btn_off.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\btn_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\tankuang_shuru.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\tankuang_shuru.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\momitor_btn_background_wait.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\momitor_btn_background_wait.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\momitor_tv_flow_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\momitor_tv_flow_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\btn_on.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\btn_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\start.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\start.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\pup_btn.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\pup_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\momitor_tv_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\momitor_tv_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\stop.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\yunxingzhuangtai_stop.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\yunxingzhuangtai_stop.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\momitor_btn_background_running.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\momitor_btn_background_running.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\tankuang_btn_cancel.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\tankuang_btn_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\input.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\input.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\main_btn.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\main_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\running.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\running.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\tankuang_baidi.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\tankuang_baidi.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\tairui_logo.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\tairui_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\tankuang_btn_close.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\tankuang_btn_close.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\loging_yanzhengma_input.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\loging_yanzhengma_input.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\btn_back.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\btn_back.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\tankuang_btn_sure.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\mipmap-mdpi\\tankuang_btn_sure.png"
+    }
+]

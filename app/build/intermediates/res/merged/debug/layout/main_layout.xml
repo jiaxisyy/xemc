@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="44px"
+        android:orientation="horizontal">
+
+        <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center_vertical"-->
+        <!--android:layout_marginLeft="26px"-->
+        <!--android:background="@drawable/logo" />-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="@string/main_name"
+            android:textSize="26sp" />
+        <!--
+           <view.MarqueeTextView
+                    android:id="@+id/tv_main_warning"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:textSize="38sp"
+                    android:layout_marginLeft="30dp"
+                    android:textColor="#FF0000"
+                    android:text="tesja;eao;ffjidaofjieloafj.afiaeofjidk.afjie"
+                    android:layout_centerHorizontal="true"
+                    android:layout_below="@+id/scrollTextView"
+                    />-->
+
+        <TextView
+            android:id="@+id/tv_main_time1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="50dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="2016-06-09    15:30"
+            android:textColor="#34404E"
+            android:textSize="26sp" />
+
+
+        <TextView
+            android:id="@+id/btn_main_login1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="26px"
+            android:drawableLeft="@drawable/main_login"
+            android:text="登录"
+            android:textColor="#34404E"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="130px"
+            android:layout_height="match_parent"
+            android:background="#32323A"
+            android:orientation="vertical">
+
+            <ExpandableListView
+                android:id="@+id/elv_main_state1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="118px" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/frameLayout_main"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

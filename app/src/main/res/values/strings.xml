@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">湘电</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_home">首页</string>
+    <string name="main_state">状态</string>
+    <string name="main_introduce">介绍</string>
+    <string name="pp_login_affirm">确认</string>
+    <string name="PP_login_remember">记住用户名</string>
+    <string name="PP_login_succeed">恭喜你，登陆成功！</string>
+    <string name="PP_login_go_home">返回主页</string>
+    <string name="time_series_revise">累计流量校正</string>
+    <string name="time_series_protect">流量控制保护</string>
+    <string name="time_series_coverage">确认覆盖</string>
+    <string name="time_series_off_or_on">开/关</string>
+    <string name="time_series_affirm">确认</string>
+    <string name="time_series_time">时间</string>
+    <string name="main_name">湘电重型装备有限公司</string>
+    <string name="monitoring_1">蓄电池电压:</string>
+    <string name="monitoring_2">1#电机电压:</string>
+    <string name="monitoring_3">2#电机电压:</string>
+    <string name="monitoring_4">1#电机电流:</string>
+    <string name="monitoring_5">2#电机电流:</string>
+    <string name="monitoring_6">总风压:</string>
+    <string name="monitoring_7">矿车总风压:</string>
+    <string name="monitoring_8">驻车制动气压:</string>
+    <string name="monitoring_9">行车制动气压:</string>
+    <string name="monitoring_10">牵引力/制动力:</string>
+
+
+
+</resources>

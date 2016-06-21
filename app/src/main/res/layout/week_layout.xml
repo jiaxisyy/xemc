@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/pp_parent_background"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="128px"
+        android:layout_marginLeft="197px"
+        android:layout_marginRight="197px"
+        android:layout_marginTop="172px"
+        android:background="@drawable/pp_login"
+        android:orientation="vertical">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="请选择\n\n 星期"
+                android:textColor="#9FA1B0"
+                android:textSize="26px" />
+
+            <TextView
+                android:id="@+id/pup_cancel"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10px"
+                android:background="@drawable/pp_btn_login_cancel" />
+        </RelativeLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:gravity="center">
+    <Button
+        android:background="#FF5151"
+        android:id="@+id/monday"
+        android:text="一"
+        android:textSize="24px"
+
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+       />
+    <Button
+        android:background="#FF8040"
+        android:id="@+id/tuesday"
+        android:text="二"
+        android:textSize="24px"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        />
+    <Button
+        android:background="#FFE66F"
+        android:id="@+id/wednesday"
+        android:text="三"
+        android:textSize="24px"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        />
+    <Button
+        android:background="#93FF93"
+        android:id="@+id/thursday"
+        android:text="四"
+        android:textSize="24px"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+       />
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:gravity="center">
+    <Button
+        android:background="#80FFFF"
+        android:id="@+id/friday"
+        android:text="五"
+        android:textSize="24px"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+       />
+    <Button
+        android:background="#81C0C0"
+        android:id="@+id/saturday"
+        android:text="六"
+        android:textSize="24px"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+     />
+    <Button
+        android:id="@+id/sunday"
+        android:background="#B8B8DC"
+        android:text="天"
+        android:textSize="24px"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+       />
+</LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

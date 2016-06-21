@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_icon_setting.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_icon_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_login_icon_smile.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_login_icon_smile.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg2.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\totalflow_normal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\totalflow_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\simulation_background_green.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\simulation_background_green.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\circle.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\circle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pressure_big.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pressure_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\comfirm_small.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\comfirm_small.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg10.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg10.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\jice2.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\jice2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pop_et_iuput.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pop_et_iuput.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_btn_succeed_normal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_btn_succeed_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_icon_status.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_icon_status.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_warning_bg.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_warning_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\jiche1.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\jiche1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_btn_normal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_login.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_login.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\time_series_bg.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\time_series_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg3.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\oxygen_state_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\oxygen_state_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\waitting_lamp.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\waitting_lamp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\small_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\small_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_white.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg_white.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\white_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\white_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_icon_introduce.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_icon_introduce.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_btn_succeed_selector.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_btn_succeed_selector.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_bt_pressure.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_bt_pressure.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\simulation_background_yellow.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\simulation_background_yellow.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg5.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg5.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_icon_home.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_icon_home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\introduce2.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\introduce2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_icon_monitoring.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_icon_monitoring.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\solenoid_valve_red_arrows.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\solenoid_valve_red_arrows.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_icon_user.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_icon_user.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_warning_icon.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_warning_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg6.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg6.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_cancel.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\btn_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\introduce1.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\introduce1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\totalflow_nromal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\totalflow_nromal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_login_remember_selector.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_login_remember_selector.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop_lamp.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\stop_lamp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\status_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\status_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pan.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pan.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\concentration_big.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\concentration_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\fengya.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\fengya.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\grey_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\grey_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_btn_affirm_normal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_btn_affirm_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pressure_main.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pressure_main.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\running_lamp.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\running_lamp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg8.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg8.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\time_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\time_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\solenoid_valve_green_arrows.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\solenoid_valve_green_arrows.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\simulation_background_blue.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\simulation_background_blue.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\animation_status.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\animation_status.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\simulation_background_red.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\simulation_background_red.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\solenoid_valve_red_rectangle.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\solenoid_valve_red_rectangle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\concentration_normal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\concentration_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\welcome.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\welcome.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_btn_affirm_selector.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_btn_affirm_selector.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_icon_password.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_icon_password.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg9.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\jiche4.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\jiche4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\status_background_single.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\status_background_single.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\open_btttn.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\open_btttn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\picture4.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\picture4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pressure_second.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pressure_second.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop_btttn.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\stop_btttn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\flow_normal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\flow_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\time_series_selector.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\time_series_selector.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\jiche3.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\jiche3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\totalflow_big.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\totalflow_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\flow_big.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\flow_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_btn_login_cancel.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_btn_login_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pressure_normal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pressure_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\search_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\search_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\jice_banckground.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\jice_banckground.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\solenoid_valve_green_rectangle.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\solenoid_valve_green_rectangle.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cancel_small.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\cancel_small.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_input_bg.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_input_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\solenoid_valve_bg.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\solenoid_valve_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_login_remember_normal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_login_remember_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\zhen.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\zhen.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_parent_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\pp_parent_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\popup_comfirm.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\popup_comfirm.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_btn_pressure.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_btn_pressure.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\history_btn_search.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\history_btn_search.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_statuslamp.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_statuslamp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\time_series_normal.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\time_series_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg_gray.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg_gray.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_login.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_login.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\popup_cancel.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\popup_cancel.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\system_setting.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\system_setting.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg1.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg4.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg4.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_bbbtttnnn.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\btn_bbbtttnnn.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bg7.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\bg7.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\big_background.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\big_background.png"
+    }
+]
