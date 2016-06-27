@@ -88,12 +88,12 @@
         "source": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmrecord_layout.xml",
-        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\alarmrecord_layout.xml"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amachinestatus_layout.xml",
         "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\amachinestatus_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarmrecord_layout.xml",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\layout\\alarmrecord_layout.xml"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_login.xml",

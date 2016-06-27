@@ -1,16 +1,10 @@
 package activity;
 
 
-import android.content.Context;
-import android.content.Intent;
-import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
 import android.os.Bundle;
-import android.os.Handler;
-import android.os.Message;
+
 import android.support.v4.app.FragmentActivity;
-import android.text.TextUtils;
-import android.util.Log;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.WindowManager;
@@ -21,7 +15,6 @@ import android.widget.ExpandableListView;
 
 import android.widget.PopupWindow;
 import android.widget.TextView;
-import android.widget.Toast;
 
 
 import com.hitek.serial.R;
@@ -33,11 +26,11 @@ import java.util.Map;
 
 
 import adapter.MainExpandableListViewAdapter;
-import download.UpdateApp;
+
 import fragment.MonitorFragment;
 import fragment.MonitoringFragment;
 import fragment.TimeSeriesFragment;
-import service.Services;
+
 import utils.CacheUtils;
 import utils.Constants;
 import utils.Utils;
@@ -74,7 +67,6 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
     private String errorInfo, str;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -106,12 +98,12 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
                         Utils.replace(getSupportFragmentManager(), R.id.frameLayout_main, MonitorFragment.class);
                         break;
                     case 1:
-                    //监控
+                        //监控
                         Utils.replace(getSupportFragmentManager(), R.id.frameLayout_main, MonitoringFragment.class);
                         break;
                     case 2:
                         //设置
-                        Utils.replace(getSupportFragmentManager(), R.id.frameLayout_main,TimeSeriesFragment.class);
+                        Utils.replace(getSupportFragmentManager(), R.id.frameLayout_main, TimeSeriesFragment.class);
                         break;
 
                 }
@@ -122,7 +114,6 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
         });
 
     }
-
 
 
     public void initData() {
@@ -173,7 +164,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
     /**
      * 获取弹窗
      *
-     *  @return
+     * @return
      */
 
     private PopupWindow getPopupWindow(int layoutId) {
@@ -212,7 +203,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
             @Override
             public void onClick(View v) {
                 popupWindow.dismiss();
-                }
+            }
 
         });
         pp_tv_login_cancel.setOnClickListener(new View.OnClickListener() {
@@ -224,8 +215,6 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
             }
         });
     }
-
-
 
 
 }

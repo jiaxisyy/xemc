@@ -60,12 +60,12 @@
         "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_warning_bg.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\jiche1.png",
-        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\jiche1.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_btn_normal.png",
         "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_btn_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\jiche1.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\jiche1.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_login.png",
@@ -128,12 +128,12 @@
         "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\introduce2.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_icon_monitoring.png",
-        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_icon_monitoring.png"
-    },
-    {
         "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\solenoid_valve_red_arrows.png",
         "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\solenoid_valve_red_arrows.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\main_icon_monitoring.png",
+        "source": "D:\\AndroidStudioProjects\\xemc\\app\\src\\main\\res\\drawable-ldpi\\main_icon_monitoring.png"
     },
     {
         "merged": "D:\\AndroidStudioProjects\\xemc\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pp_icon_user.png",
